@@ -53,3 +53,5 @@ python3.6 manage.py migrate
 * JavaScript
 * Bootstrap4
 ### DEPLOYING (LIVE LINK)
+
+### BEHAVIOR DRIVEN DEVELOPMENT (SPECIFICATIONS)
