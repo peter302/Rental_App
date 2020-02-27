@@ -23,4 +23,5 @@ Run the following command on the terminal:
 
         `. virtual/bin/activate`       
 
+### INSTALL DEPENDANCIES
       
