@@ -4,6 +4,12 @@ Rentals
 John,Peter,Suad
 ### DESCRIPTION
 This is a application that allow users to find and serch for houses for renting, Thursday Feb 27th 2020.
+### FEATURES
+* User can log in to application and view available houses.
+* A user can search for houses by location.
+* A user can update profile.
+* Admin can add users and give them paermissions to add houses.
+* Admin can delete users
 ### PREREQUISITES
 1. Python3.6 
 2. Postgress
