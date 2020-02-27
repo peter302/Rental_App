@@ -15,3 +15,12 @@ Run the following command on the terminal:
       `https://github.com/johnopana/Rental_App.git`
 
 ### CREATE VENV
+- To Create a virtual environment run the following command:
+         
+        `python3.6 -m venv <the name of your virtual>`
+
+- Then activate the virtual with this command:
+
+        `. virtual/bin/activate`       
+
+      
