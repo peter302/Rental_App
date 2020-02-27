@@ -65,3 +65,4 @@ If user has no account, they click on `sign up` | User signs up | User is redire
 
 ### CONTACT 
 JPS23@gamil.com
+### LICENSE 
