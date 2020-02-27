@@ -33,3 +33,5 @@ Run:
 
     ` psql
      CREATE DATABASE <the name of your database>;` 
+
+### RUN MIGRATIONS
