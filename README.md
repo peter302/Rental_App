@@ -26,5 +26,10 @@ Run the following command on the terminal:
 ### INSTALL DEPENDANCIES
 nstall the dependancies that will create an environment for the app to run with this command:
 
-                    `pip3 install -r requirements.txt`
+                 `pip3 install -r requirements.txt`
       
+### CREATE DATABASE
+Run:
+
+    ` psql
+     CREATE DATABASE <the name of your database>;` 
