@@ -63,3 +63,5 @@ If user has no account, they click on `sign up` | User signs up | User is redire
 | Homepage loads | Click `upload image` icon | User's redirected to a page where they can upload an image |
 | Homepage loads | Click `settings` icon | A modal appears where one can change their password or logout |
 
+### CONTACT 
+JPS23@gamil.com
