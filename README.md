@@ -55,3 +55,11 @@ python3.6 manage.py migrate
 ### DEPLOYING (LIVE LINK)
 
 ### BEHAVIOR DRIVEN DEVELOPMENT (SPECIFICATIONS)
+| Behavior            | Input                         | Output                        |
+| ------------------- | ----------------------------- | ----------------------------- |
+| User visits the application and croll through  | User logs in to use the system | user can view available houses and features of a particular house |
+If user has no account, they click on `sign up` | User signs up | User is redirected to the log in page |
+|  Homepage loads | Click `profile` | User's profile appears |
+| Homepage loads | Click `upload image` icon | User's redirected to a page where they can upload an image |
+| Homepage loads | Click `settings` icon | A modal appears where one can change their password or logout |
+
