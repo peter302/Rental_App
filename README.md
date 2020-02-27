@@ -9,3 +9,4 @@ This is a application that allow users to find and serch for houses for renting,
 2. Postgress
 3. Django framework
 4. Python virtual 
+### CLONING & RUNNING
