@@ -13,3 +13,5 @@ This is a application that allow users to find and serch for houses for renting,
 Run the following command on the terminal:
 
       `https://github.com/johnopana/Rental_App.git`
+
+### CREATE VENV
