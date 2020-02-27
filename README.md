@@ -52,4 +52,4 @@ python3.6 manage.py migrate
 * Python3.6
 * JavaScript
 * Bootstrap4
-
+### DEPLOYING (LIVE LINK)
