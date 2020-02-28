@@ -78,7 +78,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'housefinder',
-        'USER': 'peter',
+        'USER': 'newme',
         'PASSWORD': 'mock'
     }
 }
